@@ -5,10 +5,10 @@ Hi, Welcome! This is **Chien Lin**'s space to record what has learned in this cl
 ___
 
 ## 第一周 Week 1
-- 課堂 in class
-1.介紹課程 intro
-2. 建立GitHub帳號 Set up GitHub accoount
+ - 課堂 in class
+  1. 介紹課程 intro
+  2. 建立GitHub帳號 Set up GitHub accoount
 
-- 課餘 after class
-1. 安裝Jupyter Notebook Install Jupyter Notebook
-2. 回家作業00 HW00
+ - 課餘 after class
+  1. 安裝Jupyter Notebook Install Jupyter Notebook
+  2. 回家作業00 HW00
