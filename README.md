@@ -12,3 +12,4 @@ ___
  - 課餘 after the class
    1. 安裝*Jupyter Notebook* Install *Jupyter Notebook*
    2. 回家作業00 HW00
+      流程圖為[新頭殼新聞爬蟲](https://github.com/MiccWan/Political-News-Analysis/blob/master/crawler/new_talk_crawler.ipynb)
