@@ -9,9 +9,9 @@
    2. 建立 *GitHub* 帳號  Set up a *GitHub* accoount
    3. 安裝 *Jupyter Notebook*  Install *Jupyter Notebook*
    4. 回家作業 HW00
-   - 流程圖為[新頭殼新聞爬蟲](https://github.com/MiccWan/Political-News-Analysis/blob/master/crawler/new_talk_crawler.ipynb)  
+      - 流程圖為[新頭殼新聞爬蟲](https://github.com/MiccWan/Political-News-Analysis/blob/master/crawler/new_talk_crawler.ipynb)  
       Flow chart is [新頭殼新聞爬蟲](https://github.com/MiccWan/Political-News-Analysis/blob/master/crawler/new_talk_crawler.ipynb)
-   - [link](https://github.com/AtwoLin/DataScienceProgramming/blob/master/HW00/HW00.png)
+      - [link](https://github.com/AtwoLin/DataScienceProgramming/blob/master/HW00/HW00.png)
 
 
 #### **第二周 Week 2**
