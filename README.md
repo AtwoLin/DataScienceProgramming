@@ -60,3 +60,19 @@ ___
 ___
 #### **第九周 Week 9**
    1. 
+___
+#### **第十周 Week 10**
+   1.
+___
+#### **第十一周 Week 11**
+   1. 共線性與關聯性
+      - 居然睡過頭QQ
+      -
+   2. 野村證券實習生分享：張靖雍 sharing the experience in project and intern
+      - 背景知識與實戰能力
+   3. 回家作業 HW04-06
+   4. 小組討論 Group disgussing
+      - 專題方向
+      - 運用工具
+         - 爬蟲---HTML, API, JSON
+         - 社群分析、情感分析
