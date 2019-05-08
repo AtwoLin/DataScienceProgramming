@@ -87,7 +87,7 @@ ___
       - 共線性具有方向，關聯性則否
    2. 野村證券實習生分享：張靖雍 sharing the experience in project and intern
       - 背景知識與實戰能力
-   3. 回家作業 [HW04-06]()
+   3. 回家作業 [HW04-06](https://github.com/AtwoLin/DataScienceProgramming/blob/master/HW04-06.ipynb)
    4. 小組討論 Group disgussing
       - 專題方向
       - 運用工具
